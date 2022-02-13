@@ -1,16 +1,8 @@
 /* 
     COMP 333: Software Engineering
-    Sebastian Zimmeck (szimmeck@wesleyan.edu)
+    Aaron Lafferty
 */
 
-/* 
-    It is a good idea to include all styles in a separate Style Sheet such as 
-    this one.
-
-    Start styling with the general elements of your page, e.g., body style, 
-    pargraph style, ... . Then, you can modify those styles for individual 
-    instances using class tags, id tags, ... .
-*/
 
 /* 
     You can import a font from Google at https://fonts.google.com/
@@ -24,26 +16,14 @@ body {
     font-family: 'Noto Sans SC', sans-serif;
 }
 
-/* 
-    All text in paragraphs should be blue.
-*/
 p {
     color:blue;
 }
 
-/* 
-    The background of all divs should be pink.
- */
 div {
     background-color: rgb(170, 170, 170);
 }
 
-/* 
-    There is one white-div in our html_sample.html, which should have white 
-    font. 
-    
-    You can refer in Style Sheets to ids using #.
-*/
 #white-div {
     color: white;
 }
@@ -52,15 +32,7 @@ div {
     You can refer in Style Sheets to classes using the dot .
 */
 .padding-color-class {
-    /* 
-        Instead of color names you can also use hexdecimal values. The lower the
-        number, the darker.
-    */
     background-color: #000000;
-    /* 
-        You can also give colors in RGB values (0 to 255). If you are expecting 
-        older browsers using your site, refrain from using RGB formatting.
-    */
     color: rgb(100, 168, 200);
 }
 
@@ -111,7 +83,7 @@ a:hover {
     */
     list-style: none;
     width: 1000px;
-    margin: 0 auto;
+    margin: 5px 10px 5px 10px;
     /* 
         No padding.
     */
