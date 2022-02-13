@@ -35,7 +35,7 @@ p {
     The background of all divs should be pink.
  */
 div {
-    background-color: gray;
+    background-color: rgb(170, 170, 170);
 }
 
 /* 
