@@ -119,7 +119,7 @@ a:hover {
     /* 
         For navbars use background color that stands out.
     */
-    background-color: black;
+    background-color: rgb(218, 218, 218);
     text-align: center;
 }
 
@@ -128,8 +128,8 @@ a:hover {
 */
 .navbar li {
     width: 150 px;
-    background-color: #000;
-    border: 1px solid red;
+    background-color: rgb(218, 218, 218);
+    border: 1px solid rgb(131, 255, 147);
     /* 
         Show the navbar elements next to each other instead of on top of each 
         other. 
