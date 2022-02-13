@@ -115,7 +115,7 @@ a:hover {
     /* 
         No padding.
     */
-    padding: 0;
+    padding: 10px;
     /* 
         For navbars use background color that stands out.
     */
@@ -134,7 +134,7 @@ a:hover {
         Show the navbar elements next to each other instead of on top of each 
         other. 
     */
-    padding: 100px;
+    padding: 10px;
     display: inline-block;
     line-height: 40px;
 }
