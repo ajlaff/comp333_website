@@ -171,11 +171,11 @@ iframe {
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    background-color: orange;
+    background-color: rgb(95, 219, 101);
   }
 
 .flex-container > div {
-    background-color: grey;
+    background-color: rgb(233, 218, 218);
     width: 200px;
     margin: 10px;
     text-align: center;
