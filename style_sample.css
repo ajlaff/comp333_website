@@ -87,7 +87,7 @@ a:hover {
         Remove bullet points.
     */
     list-style: none;
-    width: 1000px;
+    width: 100%;
     margin: 0 auto;
     /* 
         No padding.
