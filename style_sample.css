@@ -21,19 +21,27 @@
 }
 
 #Log_in{ 
-    font-family: Lato, sans-serif;
+    font-family: Lato, serif;
+    font-weight: bold;
+    color: blue;
 }
 
 #Search{ 
-    font-family: Lato, sans-serif;
+    font-family: Lato, serif;
+    font-weight: bold;
+    color: blue;
 }
 
 #Check{ 
-    font-family: Lato, sans-serif;
+    font-family: Lato, serif;
+    font-weight: bold;
+    color: blue;
 }
 
 #App{ 
-    font-family: Lato, sans-serif;
+    font-family: Lato, serif;
+    font-weight: bold;
+    color: blue;
 }
 
 body {
