@@ -16,6 +16,10 @@ body {
     font-size: 25px;
 }
 
+#Rate_Songs{ 
+    font-family: Lato, sans-serif;
+}
+
 p {
     color:rgb(0, 0, 0);
 }
