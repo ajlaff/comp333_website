@@ -10,9 +10,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+
 
 #Rate_Songs{ 
-    font-family: Lato, sans-serif;
+    font-family: Inconsolata, monospace;
     font-weight: 900;
 }
 
