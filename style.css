@@ -60,11 +60,11 @@ div {
 
 
 a:hover {
-    color: black;
+    color: green;
 }
 
 a:visited {
-    color:black;
+    color:green;
 }
 
 .navbar ul {
