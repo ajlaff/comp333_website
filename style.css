@@ -60,7 +60,11 @@ div {
 
 
 a:hover {
-    color:rgb(0, 47, 255);
+    color: black;
+}
+
+a:visited {
+    color:black;
 }
 
 .navbar ul {
