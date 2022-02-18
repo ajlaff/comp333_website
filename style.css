@@ -107,7 +107,6 @@ iframe {
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(95, 219, 101);
-    margin: auto;
   }
 
 .flex-container > div {
@@ -117,6 +116,7 @@ iframe {
     text-align: center;
     line-height: 40px;
     font-size: 20px;
+    margin: auto;
 }
 
 .img-construction{
