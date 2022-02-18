@@ -107,6 +107,7 @@ iframe {
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(95, 219, 101);
+    margin: auto;
   }
 
 .flex-container > div {
